@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "568587565870",
+    "firebase_url": "https://backfour-user.firebaseio.com",
+    "project_id": "backfour-user",
+    "storage_bucket": "backfour-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568587565870:android:5ab012bade80702e",
+        "android_client_info": {
+          "package_name": "in.backfour.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568587565870-aifh2slb182nj3d8aqe7m8kncbk7fd9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.backfour.app",
+            "certificate_hash": "d297031bf492ab18debff00ebde26876938419db"
+          }
+        },
+        {
+          "client_id": "568587565870-5q7r9l263jkp8ph9li28300jfae05am1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBik2NFXY_pPBwx2GVmnABLHV8Qzb2CBMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568587565870-5q7r9l263jkp8ph9li28300jfae05am1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
